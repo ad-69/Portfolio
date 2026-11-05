@@ -1,0 +1,9 @@
+# Google OAuth credentials
+JavaPegasos/Credentials.json
+JavaPegasos/tokens/
+
+# Java generated files
+JavaPegasos/target/
+
+# Temporary files
+JavaPegasos/classpath.txt
